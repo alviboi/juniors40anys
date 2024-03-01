@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Gluten:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Parisienne&display=swap');
+
+
+@import "../../node_modules/uikit/src/less/uikit.less";
+
+/* "../node_modules/uikit/src/less/uikit.less";*/
+/* @import "../../node_modules/bootstrap/scss/bootstrap.scss"; */
+/* Bootstrap */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
